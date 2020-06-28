@@ -1,6 +1,6 @@
 module my_network {
   source  = "app.terraform.io/masa_org/quickstart-module/nsx"
-  version = "0.0.3"
+  version = "0.0.4"
 
   private_subnets = [
     "10.0.10.0/28",
