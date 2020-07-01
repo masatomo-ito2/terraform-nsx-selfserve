@@ -17,6 +17,13 @@ module my_network {
     "10.0.10.144/28"
   ]
 
+
+
+
+
+
+
+	
 	# XXX Masa
 	transport_zone_path = var.transport_zone_path 
 	edge_cluster_path = var.edge_cluster_path 
